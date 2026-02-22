@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Gurunath
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdpdmxxZXRsM2ZjbWtwbnVra3VtM3BvN2JtdjNqdTJnZmloYzlybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  <!-- ![image]() -->
-</div>
+</div> -->
 
 ## 🚀 About Me
 
