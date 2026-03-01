@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- Software Developer with close to one year of hands-on experience building scalable and user-focused applications
+- Software Developer with close to one year of professional experience building scalable and user-focused applications
 - Contribute to developing and maintaining production-grade systems across both frontend and backend
 - Continuously expanding my skills in system design, scalable architectures and modern web technologies
 
